@@ -90,7 +90,7 @@ Click Here!<!DOCTYPE html>
             <div class="container">
                 <div class="fee">
                     <h2 class="heading-secondary"><span>Regarding Fee Payment</span></h2>
-                    <p class="fee__text">Fee Structure (Btech 2022-23) - <a href="./fees_updated/.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (Btech 2022-23) - <a href="./fees_updated/btech.pdf" target="_blank">Click Here!</a></p><br>
                     <p class="fee__text">Fee Structure (Mtech) - <a href="./fees_updated/mtech.pdf" target="_blank">Click Here!</a></p><br>
                     <p class="fee__text">Fee Structure (M.Sc) - <a href="./fees_updated/msc.pdf" target="_blank">Click Here!</a></p><br>
                     <p class="fee__text">Fee Structure (PhD) - <a href="./fees_updated/phd.pdf" target="_blank">Click Here!</a></p><br>
