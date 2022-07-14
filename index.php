@@ -115,7 +115,7 @@
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Student Mentorship Program</h1>
                     <p class="heading-subtitle">Of the Student, By the Student, For the Student</p>
-                    <a href="Brochure 2022.pdf" class="btn btn-download" download>Brochure 2022&nbsp; <i class="fas fa-download"></i></a><br/>
+                    <a href="brochure_2022.pdf" class="btn btn-download" download>Brochure 2022&nbsp; <i class="fas fa-download"></i></a><br/>
                     <!-- <a href="#" class="btn btn-live" id="modalBtn">Live Updates &nbsp; <i class="fas fa-sync"></i></a> -->
                 </div>
             </div>
