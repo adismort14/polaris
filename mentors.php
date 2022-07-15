@@ -191,9 +191,9 @@
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/Mentor2.jpg" alt="Abhay" class="dev__img">
-                            <figcaption class="dev__caption">Abhay</figcaption>
+                            <figcaption class="dev__caption">Abhayveer</figcaption>
                         </figure>
-                        <div class="dev__name">Abhay</div>
+                        <div class="dev__name">Abhayveer</div>
                         <a href="mailto:abhayveer@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -225,9 +225,9 @@
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/Mentor4.jpg" alt="Aryan tiwari" class="dev__img">
-                            <figcaption class="dev__caption">Aryan tiwari</figcaption>
+                            <figcaption class="dev__caption">Aryan Tiwari</figcaption>
                         </figure>
-                        <div class="dev__name">Aryan tiwari</div>
+                        <div class="dev__name">Aryan Tiwari</div>
                         <a href="mailto:aryant@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -358,9 +358,9 @@
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/Mentor11.jpg" alt="Rajvardhan sharma" class="dev__img">
-                            <figcaption class="dev__caption">Rajvardhan sharma</figcaption>
+                            <figcaption class="dev__caption">Rajvardhan Sharma</figcaption>
                         </figure>
-                        <div class="dev__name">Rajvardhan sharma</div>
+                        <div class="dev__name">Rajvardhan Sharma</div>
                         <a href="mailto:rajvardhan@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -437,9 +437,9 @@
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/Mentor15.jpg" alt="Roushan kumar" class="dev__img">
-                            <figcaption class="dev__caption">Roushan kumar</figcaption>
+                            <figcaption class="dev__caption">Roushan Kumar</figcaption>
                         </figure>
-                        <div class="dev__name">Roushan kumar</div>
+                        <div class="dev__name">Roushan Kumar</div>
                         <a href="mailto:roushanku@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -479,9 +479,9 @@
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/Mentor17.jpg" alt="Sanskar pathak" class="dev__img">
-                            <figcaption class="dev__caption">Sanskar pathak</figcaption>
+                            <figcaption class="dev__caption">Sanskar Pathak</figcaption>
                         </figure>
-                        <div class="dev__name">Sanskar pathak</div>
+                        <div class="dev__name">Sanskar Pathak</div>
                         <a href="mailto:sanskarp@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a> 
@@ -649,26 +649,6 @@
                     </div>
                 </div>
             </div>
-
-			
-			
-               
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-
-
-
-
-
-
 
 
             <div class="container">
