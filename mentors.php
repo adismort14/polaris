@@ -671,7 +671,7 @@
 
 
 
-        <!--    <div class="container">
+            <div class="container">
                 <h2 class="heading-secondary">Mentors-PG</h2>
             </div>
             <div class="row">
@@ -679,53 +679,53 @@
 
                   <div class="col-1-of-3">
                         <figure class="dev__shape">
-                          <img src="img/mentors/pg1.jpg" alt="Shivani Valecha" class="dev__img">
+                          <img src="img/mentors/pg1.jpeg" alt="Shivani Valecha" class="dev__img">
                           <figcaption class="dev__caption">Shivani Valecha</figcaption>
                       </figure>
                       <div class="dev__name">Shivani Valecha</div>
                       <a href="mailto:shivaniv@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
                       </a>
-                      <a href="https://m.facebook.com/100040592702648/" class="dev__profile">
+                      <!-- <a href="https://m.facebook.com/100040592702648/" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a>
+                      </a> -->
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7354523510
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8236014238
                       </div>
                   </div>
 
 
                   <div class="col-1-of-3">
                       <figure class="dev__shape">
-                          <img src="img/mentors/pg2.jpg" alt="Manas  Ranjan Samantaray" class="dev__img">
-                          <figcaption class="dev__caption">Manas  Ranjan Samantaray</figcaption>
+                          <img src="img/mentors/pg2.jpeg" alt="Sudev Padhi" class="dev__img">
+                          <figcaption class="dev__caption">Sudev Padhi</figcaption>
                       </figure>
-                      <div class="dev__name">Manas  Ranjan Samantaray</div>
-                      <a href="mailto:manass@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Sudev Padhi</div>
+                      <a href="mailto:sudevp@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
                       </a>
-                      <a href="https://www.facebook.com/manasranjan.samantaray.33/" class="dev__profile">
+                      <!-- <a href="https://www.facebook.com/manasranjan.samantaray.33/" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a>
+                      </a> -->
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9443350925
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9040260615
                       </div>
                   </div>
 
                   <div class="col-1-of-3">
                       <figure class="dev__shape">
-                          <img src="img/mentors/jayant.jpg" alt="Jayanta" class="dev__img">
-                          <figcaption class="dev__caption">Jayanta</figcaption>
+                          <img src="img/mentors/pg3.jpeg" alt="Jyoti Rani" class="dev__img">
+                          <figcaption class="dev__caption">Jyoti Rani</figcaption>
                       </figure>
-                      <div class="dev__name">Jayanta</div>
-                      <a href="mailto:jayantad@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Jyoti Rani</div>
+                      <a href="mailto:jyotir@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
                       </a>
                       <!-- <a href="https://www.facebook.com/vuppala.manish" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a> 
+                      </a> -->
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9774961648
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8689053347
                       </div>
                   </div>
 
@@ -733,7 +733,7 @@
             </div>
         </section>   
 
-        <!-- EDIT ENDS HERE -->
+         <!--EDIT ENDS HERE -->
 
         <?php
         require_once('footer.php');
