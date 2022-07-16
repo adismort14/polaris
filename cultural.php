@@ -67,7 +67,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Renaissance : The Fine Arts Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Vedhamsh Bode</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Vedhamsh Bode and Esha Jain</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Arts club is all about providing a platform for every student to express their imagination,creativity,ideas or a world view through different artworks.The club provides you an environment in finding your hidden talent and endeavors to help the students cope with academic stress and create an enjoyable ambience for them.
 </p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective:</span> The club involves in various events including Meraz (The Cultural Fest) Decoration, participation in Inter IIT Cultural Meet and organizing different activities like organising drawing competition, festival decoration, T-shirt painting, etc in the institute throughout the year.</p><br>
@@ -93,7 +93,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Beathackers : The Dance Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Siddhi Agarwal</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Sakshi Saraswat</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span>"Dance is one of the ways to express ourselves and to overcome the stress of our daily lives". Beathackers is the official dance club of IIT Bhilai. Feel your feet tingling when the bass drops? Wanna learn a moonwalk or sway like Hrithik? If yes, then this the place where you can let the beats have control. The motive of the club is to make students learn about various dance forms such as jazz, break dance, hip hop and some of the popular western forms. The objective is to prepare a strong team for participating in dance events at national and international levels. The club organizes various workshops and zumba sessions throughout the year.</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective:</span></p>
 
@@ -134,7 +134,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Drishya : The Drama Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ishika Jaiswal</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Manas Raghuwanshi</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> "The most exciting acting tends to happen in the roles you never thought you could play" - John Lithgow. Drishya, the Dramatics Society of IIT Bhilai strives to provide a platform for students of the institute to conceive and play dramas on the different aspects of life. The main objective of the society is to produce excellent and innovative student theatre. Being the first cultural club to be set up at IIT Bhilai, we at the society mainly deal with Stage Plays and Nukkad. From writing plays to direction and to acting , members get to learn new skills for every job that happens to be in the dramatics. I, as a coordinator of Drishya assure you that once you enter this club, you will have lots of fun with enhancement of your drama skills. So, to all those who believe that there is an actor inside you, then do join us and get a chance to be a part of the society. </p>
                     <br>
 
@@ -152,7 +152,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Quizzotica : The Quizzing Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Shashwat Johri</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Prachir Agarwal</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Interested in Quizzes regarding Web Series, Memes, Movies, Tech etc, this is the club for you. Quizzing Club organizes regular quiz competitions and workshops to keep you updated with the current affairs and also to motivate you regarding your awareness towards current affairs. The primary goal of this club is to increase the interest of students towards quizzing and to participate and represent IIT Bhilai in the Quizzing Competitions at InterIIT Cultural Meet. ExQuizite - The Annual Quizzing Event, hosted by Quizzotica gives you the opportunity to unravel your talent and win exciting prizes. </p><br>
 
 <br>
@@ -176,7 +176,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Swara : The Music Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ansh Azad</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Garvit Agarwal</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> “Music and rhythm find their way into the secret places of the soul!”
 In our daily pursuit to achieve professional excellence we often neglect certain aspects of life. Music is one of them. It is our constant endeavour to spread awareness and induce a diverse music culture around us, encouraging students to take up instruments and giving opportunities to perform in front of a crowd. Swara as a club and band has performed at college festivals like Colossus (HNLU Naya Raipur), Armageddon (IIM Raipur), at Inter IIT Cultural Meet 2018 &  2019 and given a host performance Meraz (Annual Cultural fest of IIT Bhilai)
 </p><br>
