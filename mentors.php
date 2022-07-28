@@ -254,7 +254,7 @@
                         <a href="mailto:atharvabh@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.instagram.com/atharva0fx/" class="dev__profile">
+                        <a href="https://www.instagram.com/atharva.0fx/" class="dev__profile">
                             <i class="fab fa-instagram dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
@@ -351,7 +351,7 @@
                             <i class="fab fa-instagram dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7036162572
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9391436084
                         </div>
                     </div>
 
