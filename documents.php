@@ -59,7 +59,7 @@ Click Here!<!DOCTYPE html>
                 <div class="documents">
 
                     <h2 class="heading-secondary"><span>Availing Loan Facility</span></h2>
-                    <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>The institute has arranged education loan facilities from State Bank of India at 6.65% (discounted rate).<br>Loan is pre-sanctioned and you need to only complete the document formalities to avail the loan facility. <br>Loan documents will made available to you soon.</p>
+                    <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>The institute has arranged education loan facilities from State Bank of India at 7.45% (discounted rate).<br>Loan is pre-sanctioned and you need to only complete the document formalities to avail the loan facility. <br>Loan documents will made available to you soon.</p>
                     
                     <div class="bank">
                       <ul class="bank__list">
