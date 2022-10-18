@@ -42,7 +42,7 @@ Click Here!<!DOCTYPE html>
                   <p class="documents__text">The attached respective registration forms are necessary at the time of Registration.<br> Please download and fill the respective forms.</p>
                   <div class="bank">
                       <ul class="bank__list">
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="./forms_updated/btech_msc.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="BTech2022.pdf" download>Click Here!</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="./forms_updated/mtech_phd.pdf" download>Click Here!</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="./forms_updated/btech_msc.pdf" download>Click Here!</a></li>
 
@@ -68,11 +68,11 @@ Click Here!<!DOCTYPE html>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Asset Liability Statement <a href="Asset Liability Statement.pdf" download>TBA</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="affidavit.pdf">TBA</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>TBA</a></li>
+                        <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>TBA</a></li> -->
                         
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="check_list.odt" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Reimbursement of acceptance fee & registration fee <a href="reimbursement_of_acceptance_fee_and_registration_fee.odt" download>TBA</a></li>
+                        <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Reimbursement of acceptance fee & registration fee <a href="reimbursement_of_acceptance_fee_and_registration_fee.odt" download>TBA</a></li> -->
 
                       </ul>
                   </div>
