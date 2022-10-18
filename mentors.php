@@ -50,7 +50,7 @@
 
             <div class="row">
                 <div class="dev">
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-2">
                         <figure class="dev__shape">
                             <img src="img/mentors/fic.jpeg" alt="Dr. Arnab Patra" class="dev__img">
                             <figcaption class="dev__caption">Dr. Arnab Patra</figcaption>
@@ -61,7 +61,7 @@
                         </a>
                     </div>
 
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-2">
                         <figure class="dev__shape">
                             <img src="img/mentors/faculty1.jpg" alt="Dr. Rukmankesh" class="dev__img">
                             <figcaption class="dev__caption">Dr. Rukmankesh</figcaption>
@@ -72,7 +72,7 @@
                         </a>
                     </div>
 
-                    <div class="col-1-of-3">
+                    <!-- <div class="col-1-of-3">
                         <figure class="dev__shape">
                             <img src="img/mentors/r.jpeg" alt="Mrs. Rajni Moona" class="dev__img">
                             <figcaption class="dev__caption">Mrs. Rajni Moona</figcaption>
@@ -81,7 +81,7 @@
                         <a href="mailto:rajnimoona@yahoo.com" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

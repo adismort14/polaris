@@ -79,7 +79,7 @@
 
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Is it mandatory to report and do the registration on 27th October 2022?</h3>
-                        <p class="info__text">Yes. 27th is the registration date and it is compulsory for all students to report by 8:30am on the same date. Admission process won't be allowed post this date.</p>
+                        <p class="info__text">Yes. 27th October is the registration date and it is compulsory for all students to report by 8:30am on the same date. Admission process won't be allowed post this date.</p>
                     </div>
 
                     <div class="info">
