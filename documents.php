@@ -64,21 +64,11 @@ Click Here!<!DOCTYPE html>
                     <div class="bank">
                       <ul class="bank__list">
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Education Loan Application <a href="education_loan_2022.pdf" download>Click here.</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Rin Raksha Voucher <a href="Rin Raksha Voucher.pdf" download>Click here.</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Asset Liability Statement <a href="assets_and_liability_2022.pdf" download>Click here.</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="affidavit.pdf">Click here.</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>Click here.</a></li>
-                        <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>TBA</a></li> -->
-                        
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="checklist_el_2022" download>Click here.</a></li>
-                        <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Reimbursement of acceptance fee & registration fee <a href="reimbursement_of_acceptance_fee_and_registration_fee.odt" download>TBA</a></li> -->
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="checklist_el_2022.pdf" download>Click here.</a></li>
 
                       </ul>
-                  </div>
-
-
-
+</div>
                     
                 </div>
             </div>
@@ -104,8 +94,6 @@ Click Here!<!DOCTYPE html>
 
                                 <li><strong>Option 2 &dash;</strong> Offline mode to pay in SBI (any branch): <br/>
                                 A student can choose SBI Branch option published in SBI Collect payment options page (at lower left corner) and can go to any SBI branch for paying the fee amount either in cash or otherwise acceptable by the bank.</li>
-                                <li><strong>Option 3 &dash;</strong> Banking mode other than SBI Collect: <br/>
-                                Institute accepts Demand Draft/Bankers Cheque favouring "Director IIT Bhilai" payable at Raipur (Chhattisgarh).</li>
                             </ul>
                             <br/>
                     <p class="fee__text"><strong>Note:</strong> Direct fund transfer through NEFT/RTGS/Bank transfer mode is discouraged due to reconciliation issue and accordingly institute bank details are not shared.</p>
