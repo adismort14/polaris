@@ -115,7 +115,7 @@
                         </div>
                     </div>
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="restaurants__box">
 
                             <div class="col-1-of-2">
@@ -127,7 +127,7 @@
                                 <div class="restaurants__description">Recently opened, Food Mart is a restaurant which provides veg as well as non-veg cuisines. <br>See on <a href="https://goo.gl/maps/peh8wNHRiL6VwJ7f9">google maps &rarr;</a> </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="street">
                         <h3 class="heading-tertiary">Street Food</h3>
@@ -232,7 +232,7 @@
                         <li class="bank__item"><i class="fas fa-piggy-bank"></i>&nbsp; Bank of India Branch and ATM</li>
                         <li class="bank__item"><i class="fas fa-piggy-bank"></i>&nbsp; State Bank of India (SBI) Branch and ATM</li>
                         <li class="bank__item"><i class="fas fa-piggy-bank"></i>&nbsp; IDBI Bank Branch and ATM (Located within the campus premises)</li>
-                        <li class="bank__item"><i class="fas fa-piggy-bank"></i>&nbsp; Union Bank ATM (Located within the campus premises)</li>
+                        <li class="bank__item"><i class="fas fa-piggy-bank"></i>&nbsp; Union Bank ATM </li>
                     </ul>
                 </div>
             </div>

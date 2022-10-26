@@ -50,7 +50,7 @@
 
             <div class="row">
                 <div class="dev">
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-2">
                         <figure class="dev__shape">
                             <img src="img/mentors/fic.jpeg" alt="Dr. Arnab Patra" class="dev__img">
                             <figcaption class="dev__caption">Dr. Arnab Patra</figcaption>
@@ -61,7 +61,7 @@
                         </a>
                     </div>
 
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-2">
                         <figure class="dev__shape">
                             <img src="img/mentors/faculty1.jpg" alt="Dr. Rukmankesh" class="dev__img">
                             <figcaption class="dev__caption">Dr. Rukmankesh</figcaption>
@@ -72,7 +72,7 @@
                         </a>
                     </div>
 
-                    <div class="col-1-of-3">
+                    <!-- <div class="col-1-of-3">
                         <figure class="dev__shape">
                             <img src="img/mentors/r.jpeg" alt="Mrs. Rajni Moona" class="dev__img">
                             <figcaption class="dev__caption">Mrs. Rajni Moona</figcaption>
@@ -81,7 +81,7 @@
                         <a href="mailto:rajnimoona@yahoo.com" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -254,7 +254,7 @@
                         <a href="mailto:atharvabh@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.instagram.com/atharva0fx/" class="dev__profile">
+                        <a href="https://www.instagram.com/atharva.0fx/" class="dev__profile">
                             <i class="fab fa-instagram dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
@@ -323,7 +323,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor9.jpg" alt="Lakshmi Lasya Kata" class="dev__img">
+                            <img src="img/mentors/Mentor9.jpeg" alt="Lakshmi Lasya Kata" class="dev__img">
                             <figcaption class="dev__caption">Lakshmi Lasya Kata</figcaption>
                         </figure>
                         <div class="dev__name">Lakshmi Lasya Kata</div>
@@ -351,7 +351,7 @@
                             <i class="fab fa-instagram dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7036162572
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9391436084
                         </div>
                     </div>
 

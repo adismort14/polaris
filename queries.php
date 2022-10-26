@@ -56,7 +56,7 @@
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> What departments of study are available?</h3>
                         <ul class="info__list">
-                            <li class="info__item"><strong>Bachelor of Technology (B.Tech) &mdash;</strong> Computer Science and Engineering, Electrical Engineering and Mechanical Engineering</li>
+                            <li class="info__item"><strong>Bachelor of Technology (B.Tech) &mdash;</strong> Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, DataScience and Artificial Intelligence and Mechatronics. </li>
                             <li class="info__item"><strong>Master of Technology (M. Tech) &mdash;</strong> Computer Science and Engineering, Electrical Engineering and Mechanical Engineering</li>
                             <li class="info__item"><strong>Doctor of Philosophy (Ph.D) &mdash;</strong> Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, Physics and Chemistry</li>
                         </ul>
@@ -78,8 +78,8 @@
                     </div>
 
                     <div class="info">
-                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Is it mandatory to report and do the registration on 23rd July 2019?</h3>
-                        <p class="info__text">Yes.</p>
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Is it mandatory to report and do the registration on 27th October 2022?</h3>
+                        <p class="info__text">Yes. 27th October is the registration date and it is compulsory for all students to report by 8:30am on the same date. Admission process won't be allowed post this date.</p>
                     </div>
 
                     <div class="info">
