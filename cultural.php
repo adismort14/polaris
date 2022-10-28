@@ -297,6 +297,31 @@ FPS also organises competitions and workshops on video editing, short film makin
 
                 </div>
 
+                <div class="line-break"></div>
+            
+                <div class="cultural">
+                    <h3 class="heading-tertiary">NIRVANA</h3>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretaries:</span>  Ankita Awasthi and Rithvika Pervala </p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Nirvana is a society that focuses on mental health, gender and sexuality. We envisioned an embracing society where currently existing social stigmas are normalized, and all humans are treated rightfully. 
+
+We, at Nirvana, educate and empower the the IIT Bhilai community by providing resources on the issues most important to us, from sex and sexuality to mental health.<br><br>
+The society has two divisions:<br>
+Mental Health Division - Breaking stigmas and building knowledge in our community around depression, anxiety, substance abuse and more.<br>
+Queer Division - Coming to terms with sexuality and gender identity in a culture where it's even harder to stray from the "norm".<br>
+</p> <br>
+
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span><a href="https://instagram.com/nirvana_iit_bhilai?igshid=YmMyMTA2M2Y=" class="outreach__link">Instagram</a></p>
+<br>
+                    <div class="row">
+
+                     <div class="col-1-of-2"><img src="img\life\nir1.jpeg" alt="GOALS" class="cultural__photo"></div>
+                     <div class="col-1-of-2"><img src="img\life\nir2.jpeg" alt="GOALS" class="cultural__photo"></div>
+
+                    </div>
+
+
+                </div>
+
 
 
 
